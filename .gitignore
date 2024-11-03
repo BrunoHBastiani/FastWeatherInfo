@@ -1,0 +1,47 @@
+# Build and output directories
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.app
+*.pdb
+*.cache
+*.ilk
+*.log
+
+# Rider IDE-specific files
+.idea/
+.idea_modules/
+*.sln.iml
+
+# Rider cache directories
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Rider project files
+.idea/**/modules.xml
+.idea/**/libraries
+.idea/**/node_modules
+.idea/**/remote
+.idea/**/runConfigurations
+
+# Visual Studio temporary files, build results, and
+# user-specific settings
+*.vspscc
+*.vssscc
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.slnx
+*.userprefs
+
+# Environment files
+.env
+*.env
+
+# VSCode settings, if applicable
+.vscode/
